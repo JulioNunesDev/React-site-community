@@ -1,0 +1,34 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Fira+Sans&family=Noto+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Poppins:ital,wght@0,200;0,400;1,100&family=Roboto:ital,wght@0,400;0,500;0,900;1,100&display=swap');
+
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root{
+--font-bebas: 'Bebas Neue', cursive;
+--font-fira: 'Fira Sans', sans-serif;
+--font-noto: 'Noto Sans', sans-serif;
+--font-popis: 'Poppins', sans-serif;
+--font-roboto: 'Roboto', sans-serif;
+
+--back-titlePrimary:#673ab7;
+--back-titleSub:#270364;
+--back-subTitle:#bdbdbd;
+--font-color:#011c26ad;
+
+
+--background-div1:#011c2675;
+}
+
+
+#root{
+  background-color: #673ab7;
+  margin: 0 auto;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
